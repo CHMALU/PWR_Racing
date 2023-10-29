@@ -3,7 +3,7 @@ Zadanie rekrutacyjne(załączone dwa pliki bo nie przeczytałem na początku że
 
 Program korzysta z dwóch struktur danych:
 Point: przechowuje współrzędne punktu na płaszczyźnie.
-vector punktów: przechowuje wczytane punkty z pliku.
+vector: przechowuje wczytane punkty z pliku.
 
 Wczytuje punkty z pliku do wektora.
 Znajduje punkt o najmniejszym x (lub najmniejszym y w przypadku takich samych x).
